@@ -1,12 +1,10 @@
-- 👋 oi, sou @DuduMuniz
-- 👀 I’m interested in virar um CLT e mudar
-- 🌱 I’m currently learning ... a hackear o governo 
-- 💞️ I’m looking to collaborate on ...em dar partes do meu corpo
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Bem vindas ao meu perfil 💲
 
-<!---
-DuduMuniz/DuduMuniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Eduardo Muniz Andrade
+
+- Sou estudante da escola Monsenhor Geronymo Gallo
+- Faço o curso do Alura
+- Estou me desenvolvendo na linguagem de JavaScript
+- Uso esse espaço
+
+  <img src="https://media1.tenor.com/m/ow1nQHh6XboAAAAC/luffy-gear-5.gif" alt="a cartoon drawing of a man with his hand on his face"/>![image](https://github.com/user-attachments/assets/7625be38-e315-4772-8c6d-a03bace54142)

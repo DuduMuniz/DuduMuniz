@@ -10,4 +10,8 @@ Meu nome é Eduardo Muniz Andrade
 - Cursei as aulas do Alura:
 - https://cursos.alura.com.br/certificate/5710fca0-1b5c-40cd-a065-d494192491ab; https://cursos.alura.com.br/certificate/3eb31bb3-324c-42ee-a19b-ad5aeef95000; https://cursos.alura.com.br/certificate/3eb31bb3-324c-42ee-a19b-ad5aeef95000; 
 
+### Entre em contato comigo 📫
+
+00001089862908sp@al.educacao.sp.gov.br
+
   <img src="https://media1.tenor.com/m/ow1nQHh6XboAAAAC/luffy-gear-5.gif" alt="a cartoon drawing of a man with his hand on his face"/>
